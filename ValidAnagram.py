@@ -8,6 +8,3 @@ class ValidAnagram:
             return True
         return False
     
-    s = "anagram"
-    t = "nagaram"
-    print(isAnagram(Self, s, t))
