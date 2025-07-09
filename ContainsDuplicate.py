@@ -7,3 +7,4 @@ class ContainsDuplicate:
         if len(mySet) != len(nums):
             return True
         return False
+    
