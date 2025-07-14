@@ -1,2 +1,2 @@
-# Py
-Python projects
+# Leetcode
+Completed leetcode problems in Python
